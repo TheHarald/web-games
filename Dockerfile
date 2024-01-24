@@ -1,11 +1,11 @@
-
 FROM node:18-alpine
 
 WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm install
+RUN npm config set legacy-peer-deps true \
+    && npm install
 
 COPY . .
 
