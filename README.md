@@ -1,3 +1,5 @@
+![Contributors](https://img.shields.io/github/contributors/TheHarald/web-games?color=dark-green) ![Issues](https://img.shields.io/github/issues/TheHarald/web-games) ![License](https://img.shields.io/github/license/TheHarald/web-games) 
+
 <p align="center">
   <h3 align="center">WebGeames</h3>
 
