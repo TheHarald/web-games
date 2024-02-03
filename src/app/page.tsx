@@ -7,6 +7,12 @@ export default function Home() {
       <header className="font-bold text-3xl text-center">WebGames</header>
       <section className="flex flex-col items-center justify-center gap-4 py-4 md:py-10">
         <GameCard name="Alias" playersCount={4} device="phone" path="/alias" />
+        <GameCard
+          name="CodeNames"
+          playersCount={6}
+          device="phone"
+          path="/codenames"
+        />
       </section>
       <footer className="w-full flex items-center justify-center py-3 mt-auto">
         <Link
