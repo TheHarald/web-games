@@ -1,3 +1,5 @@
+![Contributors](https://img.shields.io/github/contributors/TheHarald/web-games?color=dark-green) ![Issues](https://img.shields.io/github/issues/TheHarald/web-games) ![License](https://img.shields.io/github/license/TheHarald/web-games) 
+
 <p align="center">
   <h3 align="center">WebGeames</h3>
 
@@ -16,6 +18,13 @@
 
 - [x] Alias
 - [ ] CodaNames в разработке
+</div>
+
+<div>
+  <img width="200" src="https://github.com/TheHarald/web-games/blob/preview-images/images/photo_1.jpg"/>
+  <img width="200" src="https://github.com/TheHarald/web-games/blob/preview-images/images/photo_2.jpg"/>
+  <img width="200" src="https://github.com/TheHarald/web-games/blob/preview-images/images/photo_3.jpg"/>
+  <img width="200" src="https://github.com/TheHarald/web-games/blob/preview-images/images/photo_4.jpg"/>
 </div>
 
 
