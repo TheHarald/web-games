@@ -1,5 +1,5 @@
 "use client";
-import { useSelector } from "@/src/hooks/hooks";
+import { useSelector } from "@/src/hooks/redux-hooks";
 import { AliasGameCreationPage } from "@/src/modules/alias/pages/alias-game-creation-page";
 import { AliasGamePage } from "@/src/modules/alias/pages/alias-game-page";
 import { AliasGamePreaparePage } from "@/src/modules/alias/pages/alias-game-prepare-page";

@@ -1,4 +1,4 @@
-import { useDispatch, useSelector } from "@/src/hooks/hooks";
+import { useDispatch, useSelector } from "@/src/hooks/redux-hooks";
 import Team from "../components/alias-game-team";
 import { AliasTeamsList } from "../components/alias-game-teams-list";
 import { curentTeamSelector } from "../services/alias-selectors";

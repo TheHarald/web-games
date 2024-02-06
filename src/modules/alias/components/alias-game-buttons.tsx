@@ -3,7 +3,7 @@ import {
   ALIAS_GAME__SET_STATUS,
   ALIAS_GAME__WORD_ANSWER,
 } from "../services/alias-constants";
-import { useDispatch, useSelector } from "@/src/hooks/hooks";
+import { useDispatch, useSelector } from "@/src/hooks/redux-hooks";
 import {
   currentTimeSelector,
   roundTimeSelector,

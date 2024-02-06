@@ -1,6 +1,6 @@
 import { Button } from "@nextui-org/button";
 import Team from "../components/alias-game-team";
-import { useDispatch, useSelector } from "@/src/hooks/hooks";
+import { useDispatch, useSelector } from "@/src/hooks/redux-hooks";
 import {
   curentTeamSelector,
   roundScoreSelector,

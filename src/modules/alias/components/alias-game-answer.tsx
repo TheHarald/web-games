@@ -1,4 +1,4 @@
-import { useDispatch } from "@/src/hooks/hooks";
+import { useDispatch } from "@/src/hooks/redux-hooks";
 import { Button } from "@nextui-org/button";
 import { Card, CardBody } from "@nextui-org/card";
 import { Checkbox } from "@nextui-org/checkbox";

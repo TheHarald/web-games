@@ -1,4 +1,4 @@
-import { useDispatch, useSelector } from "@/src/hooks/hooks";
+import { useDispatch, useSelector } from "@/src/hooks/redux-hooks";
 import {
   gameEndScoreSelector,
   isPunishmentForSkipSelector,

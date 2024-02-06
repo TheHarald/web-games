@@ -1,4 +1,4 @@
-import { useSelector } from "@/src/hooks/hooks";
+import { useSelector } from "@/src/hooks/redux-hooks";
 import { answersSelector } from "../services/alias-selectors";
 import { AliasAnswer } from "./alias-game-answer";
 

@@ -1,4 +1,4 @@
-import { useSelector } from "@/src/hooks/hooks";
+import { useSelector } from "@/src/hooks/redux-hooks";
 import { teamsSelector } from "../services/alias-selectors";
 import Team from "./alias-game-team";
 export function AliasTeamsList() {

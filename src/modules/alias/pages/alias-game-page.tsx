@@ -1,4 +1,4 @@
-import { useSelector } from "@/src/hooks/hooks";
+import { useSelector } from "@/src/hooks/redux-hooks";
 import { currentWordSelector } from "../services/alias-selectors";
 import { AliasWord } from "../components/alias-game-word";
 import { AliasGameAnswersList } from "../components/alias-game-answers-list";
